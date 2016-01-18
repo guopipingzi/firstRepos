@@ -7,4 +7,11 @@ public class Hello
 		System.out.println("brh branch update!!!");
 		System.out.println("hello brh branch update!!!");
 	}
+
+	public static void print()
+	{
+		System.out.println("*****************************");
+		System.out.println("master update111!!!");
+		System.out.println("*****************************");
+	}
 }
